@@ -1,2 +1,1 @@
-# yksgunluk-app
-ugylama projesi
+
